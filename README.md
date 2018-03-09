@@ -4,6 +4,8 @@
 
 https://github.com/FutureXpo/PUBG-RADAR-8K/releases
 
+![Imgur](https://i.imgur.com/9yh84NO.png)
+
 ### Небольшая заметка
 
 Нельзя фильтровать третий сет брони и пламегаситель на AR
