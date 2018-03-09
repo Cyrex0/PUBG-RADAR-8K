@@ -1,5 +1,7 @@
 # PUBG-Radar 
 
+## С компьютера, на котором запущена игра не запускать!
+
 ### Скачать скомпилированную версию
 
 https://github.com/FutureXpo/PUBG-RADAR-8K/releases
