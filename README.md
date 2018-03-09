@@ -45,8 +45,6 @@ https://github.com/FutureXpo/PUBG-RADAR-8K/releases
 
 
 
-
-
 ## Build
 
 * Step 1. Install [Maven](https://maven.apache.org/install.html)
